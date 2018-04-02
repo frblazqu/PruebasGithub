@@ -1,3 +1,6 @@
+#Tiene toda la pinta de que esto es un comentario y que lo que estamos diciendo en este gitignore es que se olvide de ficheros
+#.class .log etc...
+
 # Compiled class file
 *.class
 
