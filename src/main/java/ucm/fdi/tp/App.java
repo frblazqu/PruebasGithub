@@ -1,7 +1,7 @@
 package ucm.fdi.tp;
 
 /**
- * Hello world!
+ * Hello world! (Hola mundo en español!)
  *
  */
 public class App 
